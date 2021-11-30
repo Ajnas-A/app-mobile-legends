@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/app-mobile-legends/static/css/main.16b784ce.chunk.css",
-    "main.js": "/app-mobile-legends/static/js/main.a08c3707.chunk.js",
-    "main.js.map": "/app-mobile-legends/static/js/main.a08c3707.chunk.js.map",
+    "main.css": "/app-mobile-legends/static/css/main.c6b0c29e.chunk.css",
+    "main.js": "/app-mobile-legends/static/js/main.d0ac36a8.chunk.js",
+    "main.js.map": "/app-mobile-legends/static/js/main.d0ac36a8.chunk.js.map",
     "runtime-main.js": "/app-mobile-legends/static/js/runtime-main.afcafb0c.js",
     "runtime-main.js.map": "/app-mobile-legends/static/js/runtime-main.afcafb0c.js.map",
     "static/js/2.759359a6.chunk.js": "/app-mobile-legends/static/js/2.759359a6.chunk.js",
     "static/js/2.759359a6.chunk.js.map": "/app-mobile-legends/static/js/2.759359a6.chunk.js.map",
     "index.html": "/app-mobile-legends/index.html",
-    "static/css/main.16b784ce.chunk.css.map": "/app-mobile-legends/static/css/main.16b784ce.chunk.css.map",
+    "static/css/main.c6b0c29e.chunk.css.map": "/app-mobile-legends/static/css/main.c6b0c29e.chunk.css.map",
     "static/js/2.759359a6.chunk.js.LICENSE.txt": "/app-mobile-legends/static/js/2.759359a6.chunk.js.LICENSE.txt",
     "static/media/index.css": "/app-mobile-legends/static/media/Gidole-Regular.e8c34434.woff",
     "static/media/HomeImage.691ee58e.jpg": "/app-mobile-legends/static/media/HomeImage.691ee58e.jpg",
@@ -17,7 +17,7 @@
   "entrypoints": [
     "static/js/runtime-main.afcafb0c.js",
     "static/js/2.759359a6.chunk.js",
-    "static/css/main.16b784ce.chunk.css",
-    "static/js/main.a08c3707.chunk.js"
+    "static/css/main.c6b0c29e.chunk.css",
+    "static/js/main.d0ac36a8.chunk.js"
   ]
 }
